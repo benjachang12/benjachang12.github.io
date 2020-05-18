@@ -10,6 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-Please feel free to contact me for any inquiries, questions, or suggestions! The best place to reach me is through email, at benjachang12 at berkeley dot edu.
+Please feel free to contact me for any inquiries, questions, or suggestions! The best place to reach me is through email: benjachang12@berkeley.edu.
