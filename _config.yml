@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ben Chang"
   avatar           : "profile.png"
-  bio              : "I'm ben and I do ben things"
+  bio              : "Engineer | Always learning new things."
   location         : "San Francisco Bay Area"
   employer         :
   pubmed           : 
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
