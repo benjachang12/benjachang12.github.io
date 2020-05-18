@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is what who where I am.
+Hello! I am a recent graduate .
 
 A data-driven personal website
 ======
