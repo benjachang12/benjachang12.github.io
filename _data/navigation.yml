@@ -1,5 +1,14 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /markdown/
+  
+  - title: "Projects"
+    url: /portfolio/
+    
+  - title: "Resume"
+    url: /cv/
+    
   #- title: "Publications"
   #  url: /publications/
 
@@ -8,15 +17,10 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Resume"
-    url: /cv/
+
     
-  #- title: "Guide"
-  #  url: /markdown/
+
