@@ -4,7 +4,7 @@ main:
     url: /projects/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   - title: "Contact"
     url: /contact/
