@@ -7,7 +7,7 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
     
   #- title: "Publications"
   #  url: /publications/
