@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ben Chang"
 title_separator          : "-"
-name                     : &name "Ben"
+name                     : &name "Ben Chang"
 description              : &description "Ben's Personal Website"
 url                      : https://benchang.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,10 +85,10 @@ author:
   bio              : "I'm ben and I do ben things"
   location         : "San Francisco Bay Area"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "benjachang12@berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -106,10 +106,10 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
