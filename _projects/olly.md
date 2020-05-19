@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project O.L.L.Y."
+excerpt: "Robotic platform for collaborative load transportation and obstacle avoidance<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
