@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Chang"
+title                    : "BC"
 title_separator          : "-"
 name                     : &name "Ben Chang"
 description              : &description "Ben's Personal Website"
