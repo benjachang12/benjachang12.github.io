@@ -19,15 +19,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Uber Advanced Technologies Group: Software Engineering Intern - Simulation Team     (June 2019 - Dec 2019)
+  * Researched and implemented varying fidelity physics and learning based sensor simulation models for synthetic LiDAR intensity, with noise injection based on extrinsic calibration and statistical analysis
+  * Conducted experiment design, sample procurement, spectrophotometer testing, and data processing for material optical library
+  * Implemented data extraction/analysis/visualization pipeline for LiDAR data in Python
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Uber Advanced Technologies Group: Hardware Engineering Intern - CAE Team            (Aug 2018 - Dec 2018)
+  * Performed modal and crash analysis for self-driving compute liquid cooling system using ANSYS
+  * Owned end-to-end structural analysis for next generation battery pack, providing crush/drop/modal/harmonic/crash analysis, and communicated suggestions to guide key design changes
+  * Identified, performed, and documented analysis necessary to meet critical transport requirement
+
+* Quartus Engineering: Hardware Engineering Intern - CAE Team            (May 2018 - Aug 2018)
+  * Performed modal and crash analysis for self-driving compute liquid cooling system using ANSYS
+  * Owned end-to-end structural analysis for next generation battery pack, providing crush/drop/modal/harmonic/crash analysis, and communicated suggestions to guide key design changes
+  * Identified, performed, and documented analysis necessary to meet critical transport requirement
   
 Skills
 ======
