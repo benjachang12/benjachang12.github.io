@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ben, a recent 2020 graduate from UC Berkeley with an interest in robotics, autonomous vehicles, simulation, and controls. I graduated with a Bachelors of Science in Mechanical Engineering and Electrical Engineering & Computer Science (yes it's always quite a mouthful to say). 
+Hello! Thanks for stopping by. I'm Ben, a recent 2020 graduate from UC Berkeley with a Bachelors of Science in Mechanical Engineering and Electrical Engineering & Computer Science (yes it's always quite a mouthful to say). 
 
-My other hobbies include 3D printing, woodworking, and trying out new recipes. I'm also an avid bike fanatic and love repairing/working on bikes and cycling around the Bay.
 
+Robots, autonomous vehicles, and the future of transportation/personal mobility excite me! My interests and experiences intersect in the areas of robotics, controls, machine learning, mathematical modeling and simulation. Additionally, I have lots of prior experience in engineering analysis, mechanical design, manufacturing, and product design.
+
+
+Outside of work, I love hacking around with my 3D printer, cooking, and hiking. I'm also an avid bike fanatic and love repairing/working on bikes and cycling around the Bay.
