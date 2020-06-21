@@ -14,8 +14,9 @@ Please contact for my most recent, up-to-date resume.
 
 Education
 ---------
-* B.S. in Electrical Engineering and Computer Science, UC Berkeley, 2020
-* B.S. in Mechanical Engineering, UC Berkeley, 2020
+__University of California, Berkeley__ 2020
+* B.S. in Electrical Engineering and Computer Science
+* B.S. in Mechanical Engineering
 
 Work Experience / Activities
 ----------------------------
