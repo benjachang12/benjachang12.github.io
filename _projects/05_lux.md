@@ -4,6 +4,6 @@ excerpt: "Electric Powertrains, Batteries, and More for Urban Concept Supermilea
 collection: portfolio
 ---
 
-Lux is our baby.
+Lux is product of Cal Supermileage Vehicle Team's first venture into the Electric Urban Concept competition.
 
----
+
