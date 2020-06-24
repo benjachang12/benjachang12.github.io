@@ -1,6 +1,6 @@
 ---
 title: "ICTeg"
-excerpt: "IC Engine Exhaust Thermal Energy Recapture<br/><img src='/images/500x300.png'>"
+excerpt: "IC Engine Exhaust Thermal Energy Recapture<br/><img src='/images/icteg.png'>"
 collection: portfolio
 ---
 
