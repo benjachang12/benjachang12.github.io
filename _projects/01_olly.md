@@ -4,6 +4,6 @@ excerpt: "Robotic platform for collaborative load transportation and obstacle av
 collection: portfolio
 ---
 
-Olly stands for oversized load lifting and yielding
+Olly stands for oversized load lifting and yielding, was my capstone mechatronics/robotics project. 
 
 My contributions include
