@@ -1,9 +1,10 @@
 ---
 title: "Baxter the Mimicker"
-excerpt: "Real-time Pose Tracking and Robotic Mimicry<br/><img src='/images/500x300.png'>"
+excerpt: "Real-time Pose Tracking and Robotic Mimicry<br/><img src='/images/josh_baxter.gif'>"
 collection: portfolio
 ---
 
 Baxter the Mimicker is a project that did project things. My contributions were 
 
-Check out the project website for more information! https://baxterthemimicker.weebly.com
+Check out the project website for more information! [https://baxterthemimicker.weebly.com](https://baxterthemimicker.weebly.com)
+

@@ -12,14 +12,12 @@ redirect_from:
 
 Please contact for my most recent, up-to-date resume.
 
-Education
----------
-__University of California, Berkeley__ 2020
+## Education
+__University of California, Berkeley__ - 2020
 * B.S. in Electrical Engineering and Computer Science
 * B.S. in Mechanical Engineering
 
-Work Experience / Activities
-----------------------------
+## Work Experience & Activities
 * **Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
   * Modeled dynamics and designed controller for novel bipedal robot research platform
   * Simulated controller performance for various gait designs and validated on benchtop hardware
@@ -54,44 +52,55 @@ Work Experience / Activities
   * Researched novel bio-printing materials, and designed/fabricated 3D biopolymer printer hardware
   * Programmed and calibrated integrated driver software for printer stage controls and peripheral sensors
 
-Technical Skills
-------
-####Software
+## Technical Skills
+### Software
 * Python, Java, C++, ROS, Git
 * MATLAB, Simulink
 * Solidworks, PDM, Creo Parametric, Fusion 360
 * ANSYS Mechanical, Fluent, Explicit Dynamics
 
-####Hardware
+### Hardware
 * GD&T, Design for Manufacture
 * Machining - Manual Lathe/Mill, CNC, CAM
 * Wire harnessing, Soldering, Oscilloscope
 * General Fabrication, Rapid Prototyping, 3D Printing 
 
 
-Relevant Coursework
--------------------
+## Relevant Coursework
+### Electrical Engineering & Computer Science
+|Course No. |Course Name                                       | 
+|:----------|:-------------------------------------------------|
+|CS 189     |Machine Learning                                  |
+|CS 188     |Artificial Intelligence                           |
+|CS 170     |Efficient Algorithms & Intractable Problems       |
+|EECS C106A |Robotics                                          |
+|EE C128    |Feedback Control Systems                          |
+|CS 70      |Discrete Mathematics & Probability Theory         |
+|CS 61A     |Computer Architecture                             |
+|CS 61B     |Datastructures & Algorithms                       |
+|CS 61C     |Structure and Interpretation of Computer Programs |
+|EE 16A     |Designing Information Devices & Systems I         |
+|EE 16B     |Designing Information Devices & Systems II        |
 
-|EECS       |Course Names                                      |ME     |Course Names  | 
-|:----------|:-------------------------------------------------|:------|:-------|
-|CS 189     |Machine Learning                                  |ME 193B |Legged Robotics Control 
-|CS 188     |Artificial Intelligence                           |ME 131  |Vehicle Dynamics & Control
-|CS 170     |Efficient Algorithms & Intractable Problems       |ME 136  |UAV Dynamics & Control
-|EECS C106A |Robotics                                          |ME C180 |Finite Element Analysis
-|EE C128    |Feedback Control Systems                          |ME 102B |Mechatronics Design
-|CS 70      |Discrete Mathematics & Probability Theory         |ME 103  |Experimentation & Measurements
-|CS 61A     |Computer Architecture                             |ME 132  |Dynamic Systems & Feedback
-|CS 61B     |Datastructures & Algorithms                       |ME 109  |Heat Transfer
-|CS 61C     |Structure and Interpretation of Computer Programs |ME 108  |Mechanical Behavior of Engineering Materials
-|EE 16A     |Designing Information Devices & Systems I         |ME 106  |Fluid Mechanics
-|EE 16B     |Designing Information Devices & Systems II        |ME 104  |Dynamics
-|           |                                                  |ENG 128 |Advanced Engineering Design Graphics
-|           |                                                  |ENG 177 |Advanced Programming with MATLAB
-|           |                                                  |ME C85  |Solid Mechanics
-|           |                                                  |ME 40   |Thermodynamics
-|           |                                                  |ENG 7   |Computer Programming for Scientists and Engineers
-|           |                                                  |ENG 25  |Visualization for Design
-|           |                                                  |ENG 26  |3D Modeling for Design
-|           |                                                  |ENG 27  |Manufacturing and Tolerancing
-
-  
+### Mechanical Engineering
+|Course No. |Course Name                                      |
+|:----------|:------------------------------------------------|
+|ME 193B |Legged Robotics Control                             |
+|ME 131  |Vehicle Dynamics & Control                          |
+|ME 136  |UAV Dynamics & Control                              |
+|ME C180 |Finite Element Analysis                             |
+|ME 102B |Mechatronics Design                                 |
+|ME 103  |Experimentation & Measurements                      |
+|ME 132  |Dynamic Systems & Feedback                          |
+|ME 109  |Heat Transfer                                       |
+|ME 108  |Mechanical Behavior of Engineering Materials        |
+|ME 106  |Fluid Mechanics                                     |
+|ME 104  |Dynamics                                            |
+|ENG 128 |Advanced Engineering Design Graphics                |
+|ENG 177 |Advanced Programming with MATLAB                    |
+|ME C85  |Solid Mechanics                                     |
+|ME 40   |Thermodynamics                                      |
+|ENG 7   |Computer Programming for Scientists and Engineers   |
+|ENG 25  |Visualization for Design                            |
+|ENG 26  |3D Modeling for Design                              |
+|ENG 27  |Manufacturing and Tolerancing                       |
