@@ -7,3 +7,5 @@ collection: portfolio
 TABREA stands for Thigh Actuated Bipedal Robot for Extreme Agility.
 
 See the paper below:
+
+---
