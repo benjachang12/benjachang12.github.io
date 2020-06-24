@@ -56,13 +56,13 @@ Work Experience & Activities
 
 Technical Skills
 ------
-####Software
+###Software
 * Python, Java, C++, ROS, Git
 * MATLAB, Simulink
 * Solidworks, PDM, Creo Parametric, Fusion 360
 * ANSYS Mechanical, Fluent, Explicit Dynamics
 
-####Hardware
+###Hardware
 * GD&T, Design for Manufacture
 * Machining - Manual Lathe/Mill, CNC, CAM
 * Wire harnessing, Soldering, Oscilloscope
