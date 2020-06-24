@@ -14,15 +14,15 @@ Please contact for my most recent, up-to-date resume.
 
 Education
 ---------
-__University of California, Berkeley__ 2020
+__University of California, Berkeley__ - 2020
 * B.S. in Electrical Engineering and Computer Science
 * B.S. in Mechanical Engineering
 
-Work Experience / Activities
+Work Experience & Activities
 ----------------------------
-* **Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
-  * Modeled dynamics and designed controller for novel bipedal robot research platform
-  * Simulated controller performance for various gait designs and validated on benchtop hardware
+**Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
+* Modeled dynamics and designed controller for novel bipedal robot research platform
+* Simulated controller performance for various gait designs and validated on benchtop hardware
 
 * **Uber Advanced Technologies Group:** _Software Engineering Intern - Simulation Team_     (June 2019 - Dec 2019)
   * Researched and implemented varying fidelity physics and learning based sensor simulation models for synthetic LiDAR intensity, with noise injection based on extrinsic calibration and statistical analysis
