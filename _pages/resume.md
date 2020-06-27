@@ -25,6 +25,7 @@ Definition List
 
 ## Work Experience & Activities
 * **Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
+: _Undergraduate Researcher_ (August 2019 - Dec 2019)
   * Modeled dynamics and designed controller for novel bipedal robot research platform
   * Simulated controller performance for various gait designs and validated on benchtop hardware
 
@@ -59,13 +60,13 @@ Definition List
   * Programmed and calibrated integrated driver software for printer stage controls and peripheral sensors
 
 ## Technical Skills
-### Software
+**Software**
 * Python, Java, C++, ROS, Git
 * MATLAB, Simulink
 * Solidworks, PDM, Creo Parametric, Fusion 360
 * ANSYS Mechanical, Fluent, Explicit Dynamics
 
-### Hardware
+**Hardware**
 * GD&T, Design for Manufacture
 * Machining - Manual Lathe/Mill, CNC, CAM
 * Wire harnessing, Soldering, Oscilloscope
@@ -73,7 +74,7 @@ Definition List
 
 
 ## Relevant Coursework
-### Electrical Engineering & Computer Science
+**Electrical Engineering & Computer Science**
 
 |Course No. |Course Name                                       | 
 |:----------|:-------------------------------------------------|
@@ -89,7 +90,7 @@ Definition List
 |EE 16A     |Designing Information Devices & Systems I         |
 |EE 16B     |Designing Information Devices & Systems II        |
 
-### Mechanical Engineering
+**Mechanical Engineering**
 
 |Course No. |Course Name                                      |
 |:----------|:------------------------------------------------|
