@@ -12,9 +12,16 @@ redirect_from:
 Please contact for my most recent, up-to-date resume.
 
 ## Education
-* __University of California, Berkeley__ - 2020
+* __University of California, Berkeley__,  2020
   * B.S. in Electrical Engineering and Computer Science
   * B.S. in Mechanical Engineering
+
+Definition List
+:   asdf
+
+* Bulleted defintion list
+:   hello
+    * yo
 
 ## Work Experience & Activities
 * **Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
