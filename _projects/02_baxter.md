@@ -1,6 +1,6 @@
 ---
 title: "Baxter the Mimicker"
-excerpt: "Real-time Pose Tracking and Robotic Mimicry<br/><img src='/images/josh_baxter.gif'>"
+excerpt: "Real-time image based pose tracking and robotic mimicry on Rethink Robotic's Baxter Platform<br/><img src='/images/josh_baxter.gif'>"
 collection: portfolio
 ---
 

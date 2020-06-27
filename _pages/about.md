@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+	overlay_image: ../images/atg_logo_cfd.png
+	caption: Banner
 ---
 
 Hello, and thanks for visiting my personal website! I'm Ben, a recent 2020 graduate from UC Berkeley with a double major in **Mechanical Engineering** and **Electrical Engineering & Computer Science**. 
