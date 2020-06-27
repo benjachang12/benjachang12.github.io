@@ -13,9 +13,9 @@ redirect_from:
 Please contact for my most recent, up-to-date resume.
 
 ## Education
-__University of California, Berkeley__ - 2020
-* B.S. in Electrical Engineering and Computer Science
-* B.S. in Mechanical Engineering
+* __University of California, Berkeley__ - 2020
+  * B.S. in Electrical Engineering and Computer Science
+  * B.S. in Mechanical Engineering
 
 ## Work Experience & Activities
 * **Hybrid Robotics Group:** _Undergraduate Researcher_     (August 2019 - Dec 2019)
@@ -68,6 +68,7 @@ __University of California, Berkeley__ - 2020
 
 ## Relevant Coursework
 ### Electrical Engineering & Computer Science
+
 |Course No. |Course Name                                       | 
 |:----------|:-------------------------------------------------|
 |CS 189     |Machine Learning                                  |
@@ -83,6 +84,7 @@ __University of California, Berkeley__ - 2020
 |EE 16B     |Designing Information Devices & Systems II        |
 
 ### Mechanical Engineering
+
 |Course No. |Course Name                                      |
 |:----------|:------------------------------------------------|
 |ME 193B |Legged Robotics Control                             |
