@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please contact for my most recent, up-to-date resume. Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as PDF.
+Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as PDF. Please contact for my most recent, up-to-date resume. 
 
 ## Education
 * __University of California, Berkeley__ ---<cite>2020</cite>
