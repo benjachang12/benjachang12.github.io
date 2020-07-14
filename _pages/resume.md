@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as PDF. Please contact for my most recent, up-to-date resume. 
+Click [here](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) to download resume as PDF. Please contact for my most recent, up-to-date resume. 
 
 ## Education
 * __University of California, Berkeley__ ---<cite>2020</cite>
@@ -37,7 +37,11 @@ Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as 
   * Created multiple detailed part/assembly drawings for precision optical mounts
   * Conducted thorough market survey of robotic arm end effectors for automation side project 
 
-* **Cal Supermileage Vehicle**: _Technical Adviser_ (Aug 2017 - May 2020), _Powertrain Lead Engineer_ (Aug 2017 - May 2020)
+* **Cal Supermileage Vehicle**: _Technical Adviser_ (May 2019 - May 2020)
+  * Designing, building, and testing superefficient electric vehicles
+  * Powertrain engineering stuff
+
+* **Cal Supermileage Vehicle**: _Powertrain Lead Engineer_ (Aug 2017 - May 2019)
   * Designing, building, and testing superefficient electric vehicles
   * Powertrain engineering stuff
 
@@ -49,21 +53,20 @@ Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as 
   * Designed/prototyped pod chassis for preliminary design package, collaborating with other subsystems
 
 * **Genomics and Systems Biotechnology Lab, UCSD**: _Research Intern_ (June 2014 - Aug 2014)
-  * Researched novel bio-printing materials, and designed/fabricated 3D biopolymer printer hardware
-  * Programmed and calibrated integrated driver software for printer stage controls and peripheral sensors
+  * Researched novel bio-printing materials, and designed and manufactured 3D biopolymer printer hardware
+  * Programmed and calibrated integrated driver software for printer stage controls and peripheral sensors in C++
 
 ## Technical Skills
 **Software**
-* Python, Java, C++, ROS, Git
+* Python, C++, Java, ROS, Git
 * MATLAB, Simulink
-* Solidworks, PDM, Creo Parametric, Fusion 360
+* CAD (Solidworks & PDM, Creo, Fusion 360)
 * ANSYS Mechanical, Fluent, Explicit Dynamics
 
 **Hardware**
-* GD&T, Design for Manufacture
-* Machining - Manual Lathe/Mill, CNC, CAM
-* Wire harnessing, Soldering, Oscilloscope
-* General Fabrication, Rapid Prototyping, 3D Printing 
+* Manufacturing (GD&T, DFM, Tolerance Analysis, Manual Lathe/Mill, CNC, CAM)
+* Rapid Prototyping (3D Printing, Lasercutting, Waterjet)
+* Wire harnessing, Soldering, Oscilloscope 
 
 ## Relevant Coursework
 **Electrical Engineering & Computer Science**
@@ -86,7 +89,7 @@ Download [resume](http://benchang.us/files/Benjamin_Chang_Resume_2020_4.pdf) as 
 
 |Course No. |Course Name                                      |
 |:----------|:------------------------------------------------|
-|ME 193B |Legged Robotics Control                             |
+|ME 193B |Legged Robotics Dynamics & Control                  |
 |ME 131  |Vehicle Dynamics & Control                          |
 |ME 136  |UAV Dynamics & Control                              |
 |ME C180 |Finite Element Analysis                             |
